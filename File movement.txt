@@ -1,0 +1,15 @@
+Write me the python script to do the following task :
+
+1. Move files from source directory to target directory. The source and target directory are specified in "ckdmove.cfg"
+2. The move operation run every xxx second. The second also specified to "ckdmove.cfg"
+3. Sometimes the machine is writing file in source directory, the file in source directory cannot be deleted. Also provide the mechanism to solve this problem.
+4. Use Tkinter library for GUI. The GUI must have start / stop button. Show the file already moved with pass / fail result.
+
+Also provide me the "ckdmove.cfg" file
+
+-----------------------------------------
+
+
+C:\Users\u\AppData\Local\Programs\Python\Python37\python.exe
+py37env\Scripts\activate
+auto-py-to-exe
